@@ -18,37 +18,6 @@ Hey! I'm **Peter Sour**, a second-semester **Informatics student** with a deep p
 - 🤖 **Tech Enthusiast:** Exploring new tools and frameworks every day, always eager to solve real-world problems through code.
 
 ---
-
-## 🔧 Tech Stack
-## 🛠️ My Favorite Tools and Technologies
-
-### 🌍 Python
-<img src="https://img.icons8.com/ios/452/python.png" width="40"/>
-
-A versatile programming language that I use for **data analysis**, **automation**, and **machine learning** projects.
-
-### 🔥 JavaScript
-<img src="https://img.icons8.com/ios/452/javascript.png" width="40"/>
-
-The backbone of modern web development! I use JavaScript to create **dynamic**, **interactive**, and **responsive** user interfaces.
-
-### ⚛️ React
-<img src="https://img.icons8.com/ios/452/react.png" width="40"/>
-
-I enjoy using React to build **fast**, **scalable**, and **maintainable** user interfaces through its **component-based** architecture.
-
-### 🚀 Node.js
-<img src="https://img.icons8.com/ios/452/nodejs.png" width="40"/>
-
-Node.js is my go-to for **backend development**, enabling me to create **high-performance** server-side applications.
-
-### ⏳ Git
-<img src="https://img.icons8.com/ios/452/git.png" width="40"/>
-
-Git is essential for **version control**. I use it to track changes and collaborate on coding projects with ease.
-
----
-
 ## 📊 Top Languages on GitHub
 
 <p align="center">
