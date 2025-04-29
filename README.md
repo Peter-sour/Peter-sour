@@ -20,33 +20,32 @@ Hey! I'm **Peter Sour**, a second-semester **Informatics student** with a deep p
 ---
 
 ## 🔧 Tech Stack
+## 🛠️ My Favorite Tools and Technologies
 
-## 🚀 Technologies I Love Working With
+### 🌍 Python
+<img src="https://img.icons8.com/ios/452/python.png" width="40"/>
 
-### 🐍 Python
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
+A versatile programming language that I use for **data analysis**, **automation**, and **machine learning** projects.
 
-A powerful and flexible language, I use Python for data analysis, automation, and machine learning projects.
+### 🔥 JavaScript
+<img src="https://img.icons8.com/ios/452/javascript.png" width="40"/>
 
-### 💻 JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>
+The backbone of modern web development! I use JavaScript to create **dynamic**, **interactive**, and **responsive** user interfaces.
 
-The backbone of web development! I use JavaScript to build dynamic and interactive front-end experiences.
+### ⚛️ React
+<img src="https://img.icons8.com/ios/452/react.png" width="40"/>
 
-### 🖥️ React
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
+I enjoy using React to build **fast**, **scalable**, and **maintainable** user interfaces through its **component-based** architecture.
 
-For building fast and scalable user interfaces, I love React for its component-based architecture.
+### 🚀 Node.js
+<img src="https://img.icons8.com/ios/452/nodejs.png" width="40"/>
 
-### ⚙️ Node.js
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Node.js_logo.svg" width="40"/>
+Node.js is my go-to for **backend development**, enabling me to create **high-performance** server-side applications.
 
-Node.js is my go-to for backend development, allowing me to build fast and efficient server-side applications.
+### ⏳ Git
+<img src="https://img.icons8.com/ios/452/git.png" width="40"/>
 
-### 🔧 Git
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Git-Logo.svg" width="40"/>
-
-I use Git for version control, ensuring collaboration and tracking code changes effectively.
+Git is essential for **version control**. I use it to track changes and collaborate on coding projects with ease.
 
 ---
 
