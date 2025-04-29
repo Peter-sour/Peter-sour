@@ -21,7 +21,7 @@ Hey! I'm **Peter Sour**, a second-semester **Informatics student** with a deep p
 
 ## 🔧 Tech Stack
 
-Here are the languages and tools I love working with:
+## 🚀 Technologies I Love Working With
 
 ### 🐍 Python
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
