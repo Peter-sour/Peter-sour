@@ -24,27 +24,27 @@ Hey! I'm **Peter Sour**, a second-semester **Informatics student** with a deep p
 ## 🚀 Technologies I Love Working With
 
 ### 🐍 Python
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
 
 A powerful and flexible language, I use Python for data analysis, automation, and machine learning projects.
 
 ### 💻 JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>
 
 The backbone of web development! I use JavaScript to build dynamic and interactive front-end experiences.
 
 ### 🖥️ React
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
 
 For building fast and scalable user interfaces, I love React for its component-based architecture.
 
 ### ⚙️ Node.js
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/9/96/Node.js_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Node.js_logo.svg" width="40"/>
 
 Node.js is my go-to for backend development, allowing me to build fast and efficient server-side applications.
 
 ### 🔧 Git
-![Git](https://upload.wikimedia.org/wikipedia/commons/4/42/Git-Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Git-Logo.svg" width="40"/>
 
 I use Git for version control, ensuring collaboration and tracking code changes effectively.
 
