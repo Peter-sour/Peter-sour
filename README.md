@@ -20,9 +20,8 @@ Hey! I'm **Peter Sour**, a second-semester **Informatics student** with a deep p
 ---
 ## 📊 Top Languages on GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-sour&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-sour&layout=compact)
+
 
 From the languages I've used most frequently on GitHub, it's clear that I focus heavily on **Python**, **JavaScript**, and **HTML/CSS**. These languages are the core of many of my projects, whether it's building web applications with **React** or working on automation scripts with **Python**.
 
