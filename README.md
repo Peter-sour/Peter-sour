@@ -1,6 +1,6 @@
-<div align="center">
-  # Hi 👋, I'm Peter
+# Hi 👋, I'm Peter
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&align=center&color=58A6FF&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+explore!" alt="Typing SVG" />
 </div>
 
