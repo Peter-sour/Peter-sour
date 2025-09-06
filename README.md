@@ -1,12 +1,15 @@
+<div align="center">
+
 # Hi 👋, I'm Peter
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&align=center&color=58A6FF&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+explore!" alt="Typing SVG" />
-</div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Peter-sour&color=brightgreen&style=for-the-badge&label=Profile+Views)
-  ![Followers](https://img.shields.io/github/followers/Peter-sour?style=for-the-badge&color=blue&label=Followers)
-  ![Stars](https://img.shields.io/github/stars/Peter-sour?style=for-the-badge&color=yellow&label=Stars)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+explore!" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Peter-sour&color=brightgreen&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Peter-sour?style=for-the-badge&color=blue&label=Followers)
+![Stars](https://img.shields.io/github/stars/Peter-sour?style=for-the-badge&color=yellow&label=Stars)
+
+</div>
 
 ---
 
