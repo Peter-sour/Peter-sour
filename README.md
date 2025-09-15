@@ -22,7 +22,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-sour&layout=compact&langs_count=10&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true"/>
 </p>
 
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-sour&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=Peter-sour&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9" />
 
 </div>
 
