@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## 💻 Programming Languages (Berdasarkan Data Anda)
+## 💻 Programming Languages
 
 <table style="border: none;">
 <tr>
