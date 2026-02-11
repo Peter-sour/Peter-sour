@@ -45,7 +45,7 @@ const malakulKabir = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter-sour&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=Peter-sour&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-sour&theme=radical&hide_border=true)
 
