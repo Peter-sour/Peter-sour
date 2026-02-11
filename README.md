@@ -128,7 +128,7 @@ const malakulKabir = {
 
 <div align="center">
 
-<a href="https://github.com/Peter-sour/repo-name-1">
+<a href="https://github.com/Peter-sour/Clavox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peter-sour&repo=repo-name-1&theme=radical&hide_border=true" />
 </a>
 
