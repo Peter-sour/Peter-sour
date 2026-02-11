@@ -44,8 +44,8 @@ const malakulKabir = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=Peter-sour&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Peter-sour?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-sour&theme=radical&hide_border=true)
 
